@@ -1,0 +1,49 @@
+
+#showStudents,#addStudent{
+    background-color: black;
+    color: orange;
+    padding: 10px 20px;
+    font-size: large;
+    margin: 10px 10px;
+    cursor: pointer;
+}table {
+    border: 2px solid black;
+}table th{
+    background-color: rgb(255, 199, 94);
+    font-size: large;
+    padding: 5px 10px;
+    text-align: center;
+    cursor: pointer;
+}table td{
+    background-color: rgb(211, 149, 149);
+    color: black;
+    font-size: large;
+    padding: 5px 10px;
+    text-align: center
+}table button {
+    background-color: red;
+    color:  white;
+    padding: 5px 10px;
+    cursor: pointer;
+}#name,#maths,#computer,#english {
+    background-color: orange;
+    color: white;
+    font-size: large;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    text-align: center;
+}select{
+    background-color: rgb(221, 255, 0);
+    color: black;
+    padding: 8px 10px;
+    font-size: large;
+    font-weight: bolder;
+}select option{
+    background-color: cyan;
+    color: black;
+}button{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
